@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bilalmughal1
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on anything reated to MEAN and MERN stack Development.
+- 💞️ I’m looking to collaborate on anything reated to HTLM, CSS, JS and ReacJs stack Development.
 - 📫 How to reach me! Gmail: Bilalmughal030@gmail.com   LinkedIn: Bilalmughal97 !!!
 
 <!---
