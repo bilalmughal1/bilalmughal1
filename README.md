@@ -6,7 +6,7 @@
 - 📧 Gmail: Bilalmughal030@gmail.com 
 - 🔗 LinkedIn:https://www.linkedin.com/in/bilalmughal97/
 - 🌐 Website:https://fahadbilal.me/ 
-- 🆙 Upwork:https://www.upwork.com/freelancers/bilalm
+- 🆙 Upwork:https://www.upwork.com/freelancers/fahadbilal1
 
 <!---
 bilalmughal1/bilalmughal1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
