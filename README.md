@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on anything reated to HTLM, CSS, JS and ReacJs stack Development.
 - 📫 How to reach me! 
-- 🌐 Website:https://fahadbilal.me/ 
-- 🔗 LinkedIn:https://www.linkedin.com/in/bilalmughal97/
+- 🌐 Website:https://webdevfahad.tech/ 
+- 🔗 LinkedIn:https://www.linkedin.com/in/fahadbilalsaleem/
 - 📧 Gmail: Bilalmughal030@gmail.com 
 
 
