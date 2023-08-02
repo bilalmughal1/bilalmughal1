@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bilalmughal1
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on anything reated to HTLM, CSS, JS and ReacJs stack Development.
+- 💞️ I’m looking to collaborate on anything related to HTLM, CSS, JS, and ReacJs stack Development.
 - 📫 How to reach me! 
 - 🌐 Website:https://webdevfahad.tech/ 
 - 🔗 LinkedIn:https://www.linkedin.com/in/fahadbilalsaleem/
