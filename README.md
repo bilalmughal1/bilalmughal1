@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bilalmughal1
+- 👋 Hi, I’m Fahad Bilal Saleem
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on anything related to HTLM, CSS, JS, and ReacJs stack Development.
