@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fahad Bilal Saleem
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently a full-time Web Developer at Vapes Bars.
 - 💞️ I’m looking to collaborate on anything related to HTLM, CSS, JS, and ReacJs stack Development.
 - 📫 How to reach me! 
 - 🌐 Website:https://webdevfahad.tech/ 
