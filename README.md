@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Fahad Bilal Saleem
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently a full-time Web Developer at Vapes Bars.
+- 🌱 I’m currently a full-time Web Developer at Internation Vision Investments.
 - 💞️ I’m looking to collaborate on anything related to HTLM, CSS, JS, and ReacJs stack Development.
 - 📫 How to reach me! 
-- 🌐 Website:https://webdevfahad.tech/ 
+- 🌐 Website:https://fahadbilal.com/ 
 - 🔗 LinkedIn:https://www.linkedin.com/in/fahadbilalsaleem/
 - 📧 Gmail: Bilalmughal030@gmail.com 
 
