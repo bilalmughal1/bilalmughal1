@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fahad Bilal Saleem
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently a full-time Web Developer at Internation Vision Investments.
-- 💞️ I’m looking to collaborate on anything related to HTLM, CSS, JS, and ReacJs stack Development.
+- 💞️ I’m looking to collaborate on anything related to HTLM, CSS, JS,PHP, and ReactJs stack Development.
 - 📫 How to reach me! 
 - 🌐 Website:https://fahadbilal.com/ 
 - 🔗 LinkedIn:https://www.linkedin.com/in/fahadbilalsaleem/
