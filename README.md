@@ -5,7 +5,7 @@
 - 📫 How to reach me! 
 - 🌐 Website:https://fahadbilal.com/ 
 - 🔗 LinkedIn:https://www.linkedin.com/in/fahadbilalsaleem/
-- 📧 Gmail: Bilalmughal030@gmail.com 
+- 📧 Email: contact@fahadbilal.com 
 
 
 <!---
