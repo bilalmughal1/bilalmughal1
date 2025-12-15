@@ -27,7 +27,7 @@ Small to mid scale production systems.
 You can reach me here.
 Website, https://fahadbilal.com
 LinkedIn, https://www.linkedin.com/in/fahadbilalsaleem/
-Email, mailto:contact@fahadbilal.com
+Email, contact@fahadbilal.com
 
 I prefer practical work.
 I focus on results that improve real systems.
